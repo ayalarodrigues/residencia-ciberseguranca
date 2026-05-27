@@ -1,4 +1,4 @@
-# Aula de Aprendizado de Máquina — anotação organizada
+# Aula de Aprendizado de Máquina
 
 **Disciplina:** Residência em Segurança Cibernética — Módulo Aprendizado de Máquina  
 **Professor:** César Lincoln Cavalcante Mattos  
